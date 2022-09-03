@@ -7,7 +7,7 @@ const {inquirerMenu}  = require('./helpers/inquirer');
 console.clear()
 const main = async() => {
   
-    console.log('hola mundo');
+   
 
      let opt = '';
 
